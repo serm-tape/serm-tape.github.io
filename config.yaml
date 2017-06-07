@@ -1,0 +1,26 @@
+---
+title: "Serm's blog"
+baseUrl: "/"
+params:
+ Subtitle: "Code · Idea · Learn"
+ cover: "/images/cover2.jpg" 
+ author:
+  gravatarHash: "2dbba5ab2afc95591eb6c8926442f305"
+  firstName: "Sermsak"
+  lastName: "Tummarattanarangsee"
+  gender: "male"
+  github: "serm-tape"
+  facebook: "pserm.tape"
+menu:
+ main:
+  - Name: "about me"
+    Pre: "<i class='fa fa-user'></i>"
+    Weight: -110
+    Identifier: "about"
+    url: "/about/me"
+  - Name: "lightstone"
+    Pre: "<i class='fa fa-cog'></i>"
+    identifier: "lightstone"
+    weight: -100
+    url: "/tags/lightstone"
+---
