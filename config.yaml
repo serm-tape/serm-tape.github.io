@@ -1,6 +1,6 @@
 ---
 title: "Serm's blog"
-baseUrl: "/"
+baseUrl: "http://blog.sermtape.com"
 params:
  Subtitle: "Code · Idea · Learn"
  cover: "/images/cover2.jpg" 

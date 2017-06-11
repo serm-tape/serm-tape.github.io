@@ -8,5 +8,6 @@ tags: []
 - **Full name:** Sermsak Tummarattanarangsee
 - **Github:** [serm-tape](https://github.com/serm-tape)
 - **LinkedIn:** [Sermsak](https://www.linkedin.com/in/sermsak-tummarattanarangsee-602b83aa/)
+- **E-mail:** serm.thm@gmail.com
 
 I just want to express myself.
