@@ -1,7 +1,7 @@
 ---
 title: "แนวคิดเรื่องการแนะแนว"
 description: "ถ้าเราจะช่วยกันโพสแล้วติด Hashtag"
-date: "2017-05-01T12:18:24:00+07:00"
+date: "2017-05-01T12:18:24+07:00"
 tags: ["idea", "education"]
 image: "/images/road.jpeg"
 ---
