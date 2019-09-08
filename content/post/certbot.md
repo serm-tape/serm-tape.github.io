@@ -46,12 +46,12 @@ httpsServer.listen(
     API_CONFIG.listen_host,
     () => console.log(`https listen on port ${API_CONFIG.port_https}`)
 )
-````
+```
 
 ## เหมือนจะเสร็จ แต่ยังไม่เสร็จ
 cert ตัวนี้อายุสั้นเพียงสามเดือน เพราะฉะนั้นต้องคอยรีนิวเรื่อยๆ ก็ใช้ `certbot renew` แล้วใส่ cron แบบมักง่ายก็ได้
 
 ## อ้างอิง
-[certbot](https://certbot.eff.org/lets-encrypt/centosrhel7-other) 
-[how it works](https://letsencrypt.org/how-it-works/)
+ - [certbot](https://certbot.eff.org/lets-encrypt/centosrhel7-other) 
+ - [how it works](https://letsencrypt.org/how-it-works/)
 และ stack overflow อีกหลายมู้ที่จำไม่ได้แล้ว
