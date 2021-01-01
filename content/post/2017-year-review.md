@@ -3,7 +3,7 @@ title: "2017 year review"
 description: "ปีนี้ทำอะไรไปบ้างนะ"
 date: "2017-12-29T19:16:00+07:00"
 tags: ["trivia"]
-images: "/images/2017-2018.jpg"
+image: "/images/2017-2018.jpg"
 ---
 ![cover](/images/2017-2018.jpg)
 # สิ่งที่เกิดขึ้นในปี 2017

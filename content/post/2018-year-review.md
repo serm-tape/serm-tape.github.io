@@ -3,7 +3,7 @@ title: "2018 year review"
 description: "อัพเดทปีละครั้ง เพราะขี้เกียจ"
 date: "2018-12-29T17:24:00+07:00"
 tags: ["trivia"]
-images: "/images/2018-2019.jpg"
+image: "/images/2018-2019.jpg"
 ---
 ![cover](/images/2018-2019.jpg)
 # ปีนี้ก็เติบโตขึ้นอีกนิด

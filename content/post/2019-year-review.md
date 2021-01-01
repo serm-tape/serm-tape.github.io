@@ -3,7 +3,7 @@ title: "2019 year review"
 description: "อัพเดทบล็อกกันปีละหน"
 date: "2019-12-31T23:47:00+07:00"
 tags: ["trivial"]
-images: "/images/2019-2020.jpg"
+image: "/images/2019-2020.jpg"
 ---
 ![cover](/images/2019-2020.jpg)
 

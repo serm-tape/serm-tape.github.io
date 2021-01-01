@@ -1,6 +1,7 @@
 ---
 title: "Serm's blog"
-baseUrl: "http://blog.sermtape.com/"
+baseUrl: "https://blog.sermtape.com/"
+googleAnalytics: "UA-112023740-4"
 params:
  Subtitle: "Code · Idea · Learn"
  cover: "/images/cover2.jpg" 
