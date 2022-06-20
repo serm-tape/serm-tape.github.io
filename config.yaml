@@ -2,6 +2,8 @@
 title: "Serm's blog"
 baseUrl: "https://blog.sermtape.com/"
 googleAnalytics: "UA-112023740-4"
+theme: "hugo-theme-ava"
+themesDir: "themes"
 params:
  Subtitle: "Code · Idea · Learn"
  cover: "/images/cover2.jpg" 
