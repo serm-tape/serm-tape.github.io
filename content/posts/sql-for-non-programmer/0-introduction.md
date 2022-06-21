@@ -2,7 +2,7 @@
 title: "บทที่ 0 - สมควรเสียเวลาไหม"
 description: "จะเริ่มศึกษาดีไหมนะ"
 date: "2021-08-03T23:00:00+07:00"
-tags: ["sql", "non-programmer"]
+tags: ["sql", "non-programmer", "sql-series"]
 image: "/images/q-mark.jpg"
 ---
 

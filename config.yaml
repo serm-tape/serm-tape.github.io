@@ -2,29 +2,48 @@
 title: "Serm's blog"
 baseUrl: "https://blog.sermtape.com/"
 googleAnalytics: "UA-112023740-4"
+paginate: 7
+mainSections: "post"
+theme: "hugo-theme-ava"
+themesDir: "themes"
 module:
   imports:
   - path: github.com/jmau111/hugo-theme-ava
 params:
- Subtitle: "Code · Idea · Learn"
- cover: "/images/cover2.jpg" 
- author:
-  gravatarHash: "2dbba5ab2afc95591eb6c8926442f305"
-  firstName: "Sermsak"
-  lastName: "Tummarattanarangsee"
-  gender: "male"
-  github: "serm-tape"
-  facebook: "pserm.tape"
+  ga_id: G-5P0CZ94PV8
+  Subtitle: "Code · Idea · Learn"
+  meta_tags:
+    meta_og_image: "/images/cover2.jpg"
+  author:
+    gravatarHash: "2dbba5ab2afc95591eb6c8926442f305"
+    firstName: "Sermsak"
+    lastName: "Tummarattanarangsee"
+    gender: "male"
+    github: "serm-tape"
 menu:
- main:
-  - Name: "about me"
-    Pre: "<i class='fa fa-user'></i>"
-    Weight: -110
-    Identifier: "about"
-    url: "/about/me"
-  - Name: "lightstone"
-    Pre: "<i class='fa fa-cog'></i>"
-    identifier: "lightstone"
-    weight: -100
-    url: "/tags/lightstone"
+  main:
+    - Name: "about me"
+      Pre: "<i class='fa fa-user'></i>"
+      Weight: 100
+      Identifier: "about"
+      url: "/about/me"
+    - Name: "Archives"
+      url: "/posts"
+      weight: 200
+    - Name: "series"
+      url: "/tags/series"
+      Identifier: "series"
+      weight: 300
+    - Name: lightstone
+      url: /tags/lightstone
+      parent: series
+      weight: 301
+    - Name: sql
+      url: /tags/sql-series
+      parent: series
+      weight: 302
+    - Name: The sims 4
+      url: /tags/ts4-series
+      parent: series
+      weight: 303
 ---

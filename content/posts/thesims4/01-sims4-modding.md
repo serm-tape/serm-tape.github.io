@@ -2,8 +2,8 @@
 title: "ม็อด The sims 4"
 description: "พื้นฐานการทำ mod the sims4"
 date: "2022-06-17T23:00:00"
-tags: ["modding"]
-image: "/images/2017-2018.jpg"
+tags: ["modding", "ts4-series"]
+image: "/images/tuning.jpg"
 ---
 # ม็อด The sims 4
 เนื่องจากว่าได้รับงานทำม็อดเกม The sims 4 เลยเขียนจดบันทึกเผื่อไว้ เผื่อมีคนได้งานคล้ายๆกัน จะพอช่วยได้บ้าง
