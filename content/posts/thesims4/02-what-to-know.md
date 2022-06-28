@@ -1,7 +1,7 @@
 ---
 title: "อภิธานศัพท์ The sims4"
 description: "พื้นฐานการทำ mod the sims4"
-date: "2022-06-28T21:00:00"
+date: "2022-06-28T20:00:00+0700"
 tags: ["modding", "ts4-series"]
 image: "/images/tuning.jpg"
 ---
