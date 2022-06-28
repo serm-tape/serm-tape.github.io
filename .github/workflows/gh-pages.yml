@@ -20,6 +20,7 @@ jobs:
         with:
           hugo-version: 'latest'
           extended: true
+          cname: 'blog.sermtape.com'
 
       - name: Build
         run: hugo --minify -t hugo-theme-ava
